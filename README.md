@@ -28,7 +28,7 @@ In the config screen:
 
 - **CollegeScheduler Username** – Your TAMU email
 - **CollegeScheduler Password** – Your TAMU login password
-- **CollegeScheduler Cookie** – Your auth cookie (grab on https://tamu.collegescheduler.com/ via browser dev tools or use a session generator)
+- **CollegeScheduler Cookie** – Your auth cookie (grab on https://tamu.collegescheduler.com/ via browser dev tools or use a session generator) (should also try to autofill if blank)
 - **Discord Token** – Your Discord bot token (https://discord.com/developers/applications)
 - **Discord Channel Name** – The name of the Discord channel to send alerts to (e.g., `general`)
 - **Discord Account ID** – Your full Discord user ID (activate developer mode, right click your profile and click copy ID

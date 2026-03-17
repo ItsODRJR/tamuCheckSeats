@@ -1,3 +1,5 @@
+# USE WEBSITE: https://cdn.itsodrjr.dev/agclasswatcher/ (very experimental, use non-sensitive info and use at own risk)
+
 # 📅 CheckSeats
 An Automated CollegeScheduler Monitor & Class Swapper for Texas A&M University
 
